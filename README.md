@@ -24,13 +24,12 @@ Make these predictions accessible to users and patients anywhere, anytime so tha
   pandas 
   sklearn
 
-## Datasets and Inputs
-1. Collecting Data \
+## Datasets
   The data used for training and testing is the Heart Disease UCI downloaded from Kaggle. This database contains 14 attributes.
 
   ![1](https://github.com/rjnp2/Heart_Attack-EDA-Prediction/blob/main/images/1.png)
 
-2. Exploratory Data Analysis \
+## Exploratory Data Analysis \
 It's a clean, easy to understand set of data. However, the meaning of some of the column headers are not obvious. Here's what they mean,
 
   - age: The person's age in years
@@ -48,3 +47,13 @@ It's a clean, easy to understand set of data. However, the meaning of some of th
   - thal: A blood disorder called thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect)
   - target: Heart disease (0 = no, 1 = yes)
 
+## Inputs
+Here our Model is trained to predict whether a person has a heart disease or not based on the following common features as input:
+
+ - age
+ - gender
+ - chest pain
+ - blood pressure
+ - cholesterol level
+ - max heart rate
+ - exercise induced angina
