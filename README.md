@@ -1,6 +1,6 @@
 # Heart_Attack-EDA-Prediction
 
-Welcome to this project on Loan Prediction Practice Problem.
+Welcome to this project on Heart Attack Analysis & Prediction.
 
 ## Objective:
 
